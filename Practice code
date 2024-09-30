@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" type="image/x-icon"
+        href="https://images.pexels.com/photos/592077/pexels-photo-592077.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+</head>
+
+<body style="text-align: center;">
+    <h8 style="text-align: center;">Web Development</h8>
+    <h1 style="background-color: blue;">heading 1</h1>
+    <h2 style="background-color: aqua;">heading 2</h2>
+    <h3 style="background-color: chartreuse;">heading 3</h3>
+    <h4 style="background-color: brown;">heading 4</h4>
+    <h5>heading 5</h5>
+    <h6>heading 6</h6>
+    <h1>paragraph text</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo sed error ullam aperiam harum nihil saepe incidunt
+        quidem dolor ipsam, minus ducimus voluptatem modi! Reprehenderit sed facilis ullam odit numquam.</p>
+    <h1>paragraph formatting</h1>
+    <p> <b>Lorem</b> ipsum dolor sit amet <strong>consectetur</strong> adipisicing elit. Minus, eaque consequatur
+        provident inventore illum, <i>consequuntur </i> delectus sit <em>molestias</em> adipisci quae recusandae eos
+        <mark>ea numquam!</mark> Rem quam nihil quas totam! Lorem ipsum <del>dolor sit amet</del> consectetur
+        adipisicing elit. Ea
+        iure odit <ins>aut numquam placeat quae</ins> id autem animi! Dignissimos harum expedita illo consequuntur
+        veniam saepe
+        maiores adipisci <sub>praesentium earum</sub> illum! Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Voluptatibus
+        aperiam ad laborum quod harum ipsam pariatur id aliquam labore, nisi enim. Ea possimus eius fuga neque
+        voluptatem ut ipsum provident! Lorem ipsum, dolor sit amet<sup> consectetur adipisicing</sup> elit. At
+        cupiditate fuga
+        ullam eos voluptatibus<small> maxime sunt dolore</small>. Ipsa autem eligendi dolorem obcaecati quas, assumenda
+        aspernatur
+        error fuga fugiat doloremque blanditiis!
+    </p>
+    <h1>Html Quotation and Citation Element</h1>
+    <p>
+
+    <blockquote cite="https://code.visualstudio.com/">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+        dolorem quae maxime eveniet voluptate
+        sequi veritatis repellendus ex temporibus! Culpa ipsum vero iure aliquid fugiat inventore ex pariatur sint
+        reprehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore alias delectus, vero ab dicta
+        eligendi vel earum distinctio voluptatum voluptates quas, quibusdam hic repellendus aspernatur rem nisi nesciunt
+        eum dolorem. </blockquote> Lorem ipsum, dolor <q>sit amet consectetur adipisicing elit. Nobis inventore, fuga
+        alias, culpa ratione maiores veritatis libero nesciunt omnis fugit quia</q> enim consequuntur commodi at ad quos
+    nisi.
+    Iusto, sequi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga enim corrupti eaque reiciendis pariatur.
+    Rerum ab quae ad error <abbr title="nemo expedita dignissimos tempore nisi voluptatum.">nemo expedita dignissimos
+        tempore nisi voluptatum.</abbr>
+    repellendus. Lorem ipsum dolor sit amet,<address> consectetur adipisicing elit. Deleniti magni repudiandae aliquam
+        aliquid
+        ducimus</address>, commodi <cite>recusandae accusantium explicabo eligendi</cite> unde porro quibusdam fuga sed
+    dolor nam officia
+    voluptates quae cumque. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque, laborum alias maxime ex
+    <bdo> reprehenderit dicta ea qui odio aliquid</bdo> quo tempora eaque ab eum porro distinctio asperiores a libero
+    modi.</p>
+    <h1>Html Comments</h1>
+    <p> <!--html comments-->this is a paragraph</p>
+
+    <h1>Html Links</h1>
+    <a href="https://www.w3schools.com/">w3 shools learning website</a>
+    <h1>Html Images</h1>
+    <img src="https://t4.ftcdn.net/jpg/05/50/33/47/360_F_550334715_0d2cdaljV4Xd3x7yVUhRxfmLLEUyMdXr.jpg">
+    <h1>Html Picture Element</h1>
+    <picture>
+        <source media="(min-width: 650px)"
+            srcset="https://mir-s3-cdn-cf.behance.net/projects/404/6190e982365125.Y3JvcCwxMTE5LDg3Niw1Miww.jpg">
+        <source media="(min-width: 465px)"
+            srcset="https://c4.wallpaperflare.com/wallpaper/297/22/531/lake-blue-moonlight-moon-wallpaper-preview.jpg">
+        <img
+            src="https://asset.gecdesigns.com/img/wallpapers/blue-purple-beautiful-scenery-ultra-hd-wallpaper-4k-sr10012421-1706505497434-cover.webp">
+    </picture>
+    <h1>Html Favicon</h1>
+
+
+    <h1>Html Tables</h1>
+    <table border="1">
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>MSEC</td>
+            <td>Imran</td>
+            <td>ECE</td>
+        </tr>
+        <tr>
+            <td>topic 1</td>
+            <td>topic 2</td>
+            <td>topic 3</td>
+        </tr>
+    </table>
+
+    <th colspan="2">Imran</th>
+    <th rowspan="2">8787989865</th>
+
+    <h1>HTML Lists</h1>
+    <h2>Unordered html list</h2>
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+
+    <h3>Ordered html list</h3>
+    <ol>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+    <h1>HTML Iframes</h1>
+   
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1B7f8geAhO4?si=m9ZwAGmRvHEqk92T"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h1>HTML Input Types</h1>        
+<form action="">
+
+<input type="text">
+<br>
+<input type="button">
+<br>
+<input type="checkbox">
+<br>
+<input type="color">
+<br>
+<input type="date">
+<br>
+<input type="datetime-local">
+<br>
+<input type="email">
+<br>
+<input type="file">
+<br>
+<input type="hidden">
+<br>
+<input type="image">
+<br>
+<input type="month">
+<br>
+<input type="number">
+<br>
+<input type="password">
+<br>
+<input type="radio">
+<br>
+<input type="range">
+<br>
+<input type="reset">
+<br>
+<input type="search">
+<br>
+<input type="submit">
+<br>
+<input type="tel">
+<br>
+<input type="time">
+<br>
+<input type="url">
+<br>
+<input type="week">
+<br>
+
+
+</form>
+<h1>HTML Media</h1>
+<video width="320" height="240" controls>
+    <source src="./Snapinsta.app_video_FF452365795A1E9C38FE2F6294EBB9B6_video_dashinit.mp4" type="video/mp4">
+   
+</video>
+<h1>HTML Media</h1>
+<audio controls >
+    <source src="./ReelAudio-46876.mp3" type="audio/mpg">
+</audio>
+
+
+</body>
+
+</html
